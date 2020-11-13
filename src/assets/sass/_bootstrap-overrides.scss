@@ -1,0 +1,38 @@
+.bg-primary, .btn-primary {
+  background-color: $primary !important;
+}
+
+.btn-primary:hover {
+  background-color: $secondary!important;
+}
+
+.btn-teal {
+  background: linear-gradient(to right,#018C67,#0DCA98);
+  color:#fff !important;
+}
+
+.bg-green {
+  background-color:$green-200;
+}
+
+.bg-orange {
+  background-color:$orange;
+}
+
+.text-primary {
+  color: $primary !important;
+}
+
+
+a {
+  color: $primary;
+  &:hover,
+  &:focus,
+  &:active {
+    color: darken($primary, 15%);
+  }
+}
+
+.sidebar-footer-link {
+  text-decoration: underline;
+}
