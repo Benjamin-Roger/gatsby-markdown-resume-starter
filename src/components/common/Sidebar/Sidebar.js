@@ -28,16 +28,14 @@ export class Sidebar extends Component {
   }
 
   render() {
-
     return (
       <Slide direction="right" timeout={700} in={true}>
-        <header className="position-fixed bg-primary p-2 lg-px-4 lg-py-3">
+        <header className="position-fixed bg-primary p-2 lg-px-4 lg-py-3 d-flex align-items-center">
+          <ParticlesBackground reRender={this.state.open} />
           <nav
             className="navbar navbar-expand-lg navbar-dark flex-3"
             id="sideNav"
           >
-            <ParticlesBackground reRender={this.state.open} />
-
             <button
               className="navbar-toggler"
               type="button"
@@ -53,7 +51,6 @@ export class Sidebar extends Component {
 
             <SocialLinksContainer />
           </nav>
-          
         </header>
       </Slide>
     );
