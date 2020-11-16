@@ -11,7 +11,7 @@ const EMAIL = 'john.smith@me.com';
 const SITE_URL = 'https://resume.johnsmith.com';
 const FOOTER_URL = SITE_URL;
 const GITHUB_REPO =
-  'https://github.com/Benjamin-Roger/gatsby-markdown-starter-resume';
+  'https://github.com/Benjamin-Roger/gatsby-markdown-resume-starter';
 const SEO_DESCRIPTION = `Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.`;
 
 const MENU = [
