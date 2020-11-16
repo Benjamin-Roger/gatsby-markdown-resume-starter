@@ -23,8 +23,8 @@ gatsby develop
 ```
 And it is running !
 
-## How to adapt
-The content is located in a few files:
+## How to adapt the content
+The content is located in 2 files:
 - config.js for most strings and values, to be reused throughout the website
 - src/content/markdown to update the content of the website: bio, experiences, education, projects...
 
@@ -33,6 +33,6 @@ Add a .md file with the proper attributes in the education, experiences or proje
 ## Features
 This is a fully equipped starter. It includes:
 - several resume sections, including a filterable project section
-- Markdown management, fetched with GraphQL API
+- Markdown management, their content fetched with a GraphQL query at the page level
 - a SEO component ready to go once the information in the config file
 - Google Analytics, robot.txt, sitemap plugins ready to work
