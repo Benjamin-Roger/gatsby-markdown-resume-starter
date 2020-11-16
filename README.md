@@ -10,16 +10,16 @@ This version has had some features added:
 It has also been refactored to break down the site into more manageable components.
 
 
-See a live version of this resume [here](https://gatsby-markdown-starter-resume.vercel.app/).
+See a live version of this resume [here](https://gatsby-markdown-resume-starter.vercel.app/).
 
 ## Quickstart
 
 Clone this repo and start it up
 
 ```bash 
-git clone https://github.com/Benjamin-Roger/gatsby-markdown-starter-resume.git
+git clone https://github.com/Benjamin-Roger/gatsby-markdown-resume-starter.git
 
-cd gatsby-markdown-starter-resume
+cd gatsby-markdown-resume-starter
 
 npm i
 
