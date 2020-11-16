@@ -1,11 +1,13 @@
 # Gatsby Markdown Resume Starter ###
 
-Gatsby.js powered resume based on [gatsby-starter-resume](https://github.com/anubhavsrivastava/gatsby-starter-resume). This version has had some features added:
-- Markdown file management for easier update
-- SEO components 
-- Extra portfolio section with categories and country location
+Gatsby.js powered resume based on [gatsby-starter-resume](https://github.com/anubhavsrivastava/gatsby-starter-resume). 
 
-It has also been heavily refactored to break down the site into more manageable components.
+This version has had some features added:
+- Markdown file management for easier content updates
+- SEO components 
+- Extra portfolio section with categories, country location and filters
+
+It has also been refactored to break down the site into more manageable components.
 
 ## Quickstart
 
