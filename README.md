@@ -9,6 +9,9 @@ This version has had some features added:
 
 It has also been refactored to break down the site into more manageable components.
 
+
+See a live version of this resume [here](https://gatsby-markdown-starter-resume.vercel.app/).
+
 ## Quickstart
 
 Clone this repo and start it up
